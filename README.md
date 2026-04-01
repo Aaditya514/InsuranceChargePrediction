@@ -189,15 +189,6 @@ Random Forest and XGBoost both performed well, but Random Forest had the best ov
 
 ---
 
-## 👨‍💻 Author
-
-**Abhinav Prakash**
-
-* 📧 Email: [abhinav1842prakash@gmail.com](abhinav1842prakash@gmail.com)
-* 💼 [LinkedIn](www.linkedin.com/in/abhinav1842)
-
-
----
 
 ⭐ If you found this useful, please consider giving the repo a **star**!
 
